@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "checkpoint 4.Plugins", "checkpoint 4.Plugins.csproj", "{3F19FC08-39EE-B33C-5C02-1A9DE0543CC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "checkpoint 4", "checkpoint 4.csproj", "{D1A57090-CA43-4791-79FB-FC9519F8E837}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "checkpoint 4.Editor.Plugins", "checkpoint 4.Editor.Plugins.csproj", "{60FF85F7-AD24-EFD1-FAD3-392950432822}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F19FC08-39EE-B33C-5C02-1A9DE0543CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F19FC08-39EE-B33C-5C02-1A9DE0543CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F19FC08-39EE-B33C-5C02-1A9DE0543CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F19FC08-39EE-B33C-5C02-1A9DE0543CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1A57090-CA43-4791-79FB-FC9519F8E837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A57090-CA43-4791-79FB-FC9519F8E837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A57090-CA43-4791-79FB-FC9519F8E837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A57090-CA43-4791-79FB-FC9519F8E837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60FF85F7-AD24-EFD1-FAD3-392950432822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60FF85F7-AD24-EFD1-FAD3-392950432822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60FF85F7-AD24-EFD1-FAD3-392950432822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60FF85F7-AD24-EFD1-FAD3-392950432822}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
